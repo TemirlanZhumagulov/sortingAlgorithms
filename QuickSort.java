@@ -1,8 +1,6 @@
 package codeforces.sortingAlgorithms;
 
 import java.util.Scanner;
-//import java.util.Arrays;
-//Внизу мной написанный Quick Sort который имеет возможно "лишние итерации" и точно слишком много не нужного текста
 
 public class QuickSort {
 
